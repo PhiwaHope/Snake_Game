@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1684621048 source:c:\users\phiwa\onedrive\desktop\computer science\snakegame2.0\game.cpp
+	"Game.h"
+
+1684622178 c:\users\phiwa\onedrive\desktop\computer science\snakegame2.0\game.h
+	<iostream>
+	<ctype.h>
+	<cassert>
+	<cmath>
+	<ctime>
+	<conio.h>
+	<chrono>
+	<thread>
+	<windows.h>
+
+1684621693 source:c:\users\phiwa\onedrive\desktop\computer science\snakegame2.0\main.cpp
+	<iostream>
+	"Game.h"
+
+1684919894 source:c:\users\phiwa\onedrive\desktop\games\snakegame2.0\game.cpp
+	"Game.h"
+
+1684622178 c:\users\phiwa\onedrive\desktop\games\snakegame2.0\game.h
+	<iostream>
+	<ctype.h>
+	<cassert>
+	<cmath>
+	<ctime>
+	<conio.h>
+	<chrono>
+	<thread>
+	<windows.h>
+
+1687268442 source:c:\users\phiwa\onedrive\desktop\games\snakegame2.0\main.cpp
+	<iostream>
+	"Game.h"
+
+1714576592 source:c:\users\phiwa\onedrive - university of johannesburg\desktop\snakegame2.0\game.cpp
+	"Game.h"
+
+1684622178 c:\users\phiwa\onedrive - university of johannesburg\desktop\snakegame2.0\game.h
+	<iostream>
+	<ctype.h>
+	<cassert>
+	<cmath>
+	<ctime>
+	<conio.h>
+	<chrono>
+	<thread>
+	<windows.h>
+
+1714578156 source:c:\users\phiwa\onedrive - university of johannesburg\desktop\snakegame2.0\main.cpp
+	<iostream>
+	"Game.h"
+
